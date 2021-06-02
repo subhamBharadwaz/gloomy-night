@@ -1,0 +1,21 @@
+{
+    "name": "gloomy-night",
+    "displayName": "Gloomy Night",
+    "description": "Best theme for people who love code during night",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Gloomy Night",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Gloomy Night-color-theme.json"
+            }
+        ]
+    }
+}

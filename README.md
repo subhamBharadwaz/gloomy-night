@@ -15,7 +15,7 @@
 2. Search for `Gloomy Night`
 3. Click **Install** to install it
 4. Click **Reload** to reload the editor or **Restart**
-5. From the menu bar click: Code > Preferences > Color Theme > **Halcyon**
+5. From the menu bar click: Code > Preferences > Color Theme > **Gloomy Night**
 
 ## Manual Installation
 

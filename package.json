@@ -2,7 +2,7 @@
   "name": "gloomy-night",
   "displayName": "Gloomy Night",
   "description": "A modern, minimal dark theme for VS Code ",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "icon": "images/logo.png",
   "publisher": "SubhamBharadwaz",
   "repository": {

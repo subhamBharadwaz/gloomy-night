@@ -5,7 +5,7 @@
 <h1 align="center">
  Gloomy Night
 </h1>
-<p align="center">A modern, minimal dark theme for <a>VS Code</a></p>
+<p align="center">A modern, minimal dark theme for <a href="https://marketplace.visualstudio.com/items?itemName=SubhamBharadwaz.gloomy-night">VS Code</a></p>
 
 ![demo](demo/demo-img.png)
 

@@ -17,7 +17,7 @@
 
 ## Manual Installation
 
-Read the [VSC Extension Quickstart Guide]()
+Read the [VSC Extension Quickstart Guide](https://github.com/subhamBharadwaz/gloomy-night/blob/master/vsc-extension-quickstart.md)
 
 ## Icon Theme
 

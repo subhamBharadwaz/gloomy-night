@@ -331,10 +331,17 @@
         "fontStyle": "italic"
       }
     },
+
     {
       "scope": ["text.html.derivative"],
       "settings": {
         "foreground": "#A7A8AF"
+      }
+    },
+    {
+      "scope": ["comment.line.double-slash.cpp"],
+      "settings": {
+        "foreground": "#6D6F7C"
       }
     },
     {

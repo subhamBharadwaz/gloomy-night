@@ -7,6 +7,8 @@
 </h1>
 <p align="center">A modern, minimal dark theme for <a>VS Code</a></p>
 
+![demo](demo/demo-img.png)
+
 ## Installation via VS Code
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`

@@ -1,21 +1,33 @@
 {
-    "name": "gloomy-night",
-    "displayName": "Gloomy Night",
-    "description": "Best theme for people who love code during night",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.56.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Gloomy Night",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Gloomy Night-color-theme.json"
-            }
-        ]
-    }
+  "name": "gloomy-night",
+  "displayName": "Gloomy Night",
+  "description": "A modern, minimal dark theme for VS Code ",
+  "version": "1.0.0",
+  "publisher": "SubhamBharadwaz",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/subhamBharadwaz/gloomy-night"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "night theme",
+    "gloomy night",
+    "neon"
+  ],
+  "engines": {
+    "vscode": "^1.56.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Gloomy Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Gloomy Night-color-theme.json"
+      }
+    ]
+  }
 }

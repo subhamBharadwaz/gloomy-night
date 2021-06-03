@@ -306,7 +306,7 @@
       }
     },
     {
-      "scope": ["punctuation.definition", "string.quoted.single.scss"],
+      "scope": ["string.quoted.single.scss"],
       "settings": {
         "foreground": "#c3a6ff"
       }
@@ -319,12 +319,19 @@
     },
     {
       "scope": [
+        "punctuation.definition",
         "comment.line.scss",
         "comment.line.double-slash.js",
+        "comment.line.double-slash.jsx",
         "punctuation.definition.comment.scss",
         "punctuation.definition.comment.js",
+        "punctuation.definition.comment.jsx",
         "punctuation.definition.comment.html",
-        "comment.block.html"
+        "comment.block.html",
+        "comment.block.js",
+        "comment.block.jsx",
+        "comment.block.css",
+        "comment.block.scss"
       ],
       "settings": {
         "foreground": "#6D6F7C",
@@ -339,9 +346,14 @@
       }
     },
     {
-      "scope": ["comment.line.double-slash.cpp"],
+      "scope": [
+        "comment.line.double-slash.cpp",
+        "punctuation.definition.comment.cpp",
+        "comment.block.cpp"
+      ],
       "settings": {
-        "foreground": "#6D6F7C"
+        "foreground": "#6D6F7C",
+        "fontStyle": "italic"
       }
     },
     {

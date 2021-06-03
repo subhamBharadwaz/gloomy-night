@@ -306,7 +306,7 @@
       }
     },
     {
-      "scope": ["string.quoted.single.scss"],
+      "scope": ["punctuation.definition", "string.quoted.single.scss"],
       "settings": {
         "foreground": "#c3a6ff"
       }
@@ -319,7 +319,6 @@
     },
     {
       "scope": [
-        "punctuation.definition",
         "comment.line.scss",
         "comment.line.double-slash.js",
         "comment.line.double-slash.jsx",

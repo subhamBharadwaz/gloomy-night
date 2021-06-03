@@ -7,7 +7,7 @@
 </h1>
 <p align="center">A modern, minimal dark theme for <a href="https://marketplace.visualstudio.com/items?itemName=SubhamBharadwaz.gloomy-night">VS Code</a></p>
 
-![demo](demo/demo-image.png)
+![demo](https://user-images.githubusercontent.com/72348711/120585341-2d83b980-c44f-11eb-80eb-071924a4a3bf.png)
 
 ## Installation via VS Code
 
